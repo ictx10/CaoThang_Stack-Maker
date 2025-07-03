@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\finishlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\mapbrick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapbrick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\brickplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brickplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\tagconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tagconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\assets\\scripts\\mapconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D222333-0FF3-4693-C38C-BB4BAEE76B4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapBrick.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\MapBrick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapBrick.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\MapBrick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapBrick.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:47:47.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAWwPcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:38:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:11:30.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwD8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:41:38.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinishLevel.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\FinishLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLevel.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\FinishLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLevel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:33:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\MapController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapController.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\MapController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAnwDEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:30:14.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MapConst.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\MapConst.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapConst.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\MapConst.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:39:09.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMap.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\CreateMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreateMap.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\CreateMap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreateMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:37:21.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagConst.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\TagConst.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TagConst.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\TagConst.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TagConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:00:55.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrickPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\BrickPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BrickPlayer.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\BrickPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BrickPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:46:37.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\caoth\\OneDrive\\Documents\\GitHub\\Stack Maker\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:32:25.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

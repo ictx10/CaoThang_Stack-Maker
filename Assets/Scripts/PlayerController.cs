@@ -180,20 +180,17 @@ public class PlayerController : MonoBehaviour
 
             PlayerMove();
 
-            // Kiểm tra sau khi di chuyển
             if (_rayCurrentBrick != null && _rayCurrentBrick.isStop)
             {
-                Debug.Log("Stopping");
                 StopMoving();
                 break;
             }
-
-            // Cập nhật vị trí của player
+            //update player pos
             if (_rayCurrentBrick != null && _rayCurrentBrick.ePlayerPush != ePlayerDicrection.None && !_rayCurrentBrick.isStop)
             {
                 currentDirection = _rayCurrentBrick.ePlayerPush;
                 PlayerRotate();
-                _rayCurrentBrick = null; // Reset current brick ray after moving
+                _rayCurrentBrick = null; 
             }
 
             if (_rayCurrentBrick != null && _tagActions.TryGetValue(_rayCurrentBrick.tag, out var action))
@@ -233,7 +230,7 @@ public class PlayerController : MonoBehaviour
     private void EndLevel()
     {
         StopMoving();
-        Debug.Log("Level Ended");
+        Debug.Log("Finish Level");
         StartCoroutine(EffectEndLevel());
     }
     private IEnumerator EffectEndLevel()

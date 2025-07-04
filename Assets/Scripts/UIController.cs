@@ -33,16 +33,12 @@ public class UIController : MonoBehaviour
 
     void Start()
     {
-        // Khởi tạo slider
         if (slider != null)
         {
             slider.fillAmount = FillAmount;
         }
 
-        // Hiển thị dữ liệu từ LevelManager
         UpdateUIData();
-
-        // Bắt đầu coroutine load scene
         StartCoroutine(LoadSceneAsync());
     }
 
@@ -61,7 +57,7 @@ public class UIController : MonoBehaviour
         }
         else
         {
-            Debug.LogError("LevelManager instance not found!");
+            Debug.LogError("Can't find LevelManager");
         }
     }
 
@@ -70,7 +66,6 @@ public class UIController : MonoBehaviour
     {
         if (slider == null || _childSlider == null)
         {
-            Debug.LogWarning("Slider or childSlider is not assigned.");
             return;
         }
         float sliderWidth = slider.GetComponent<RectTransform>().rect.width;
@@ -82,7 +77,7 @@ public class UIController : MonoBehaviour
         }
     }
 
-    // Hiển thị dữ liệu level và score lên UI
+    //Show data to UI
     public void ShowDataUI(int level, int score)
     {
         if (_levelText != null)
@@ -104,11 +99,12 @@ public class UIController : MonoBehaviour
         }
     }
 
-    // Coroutine để hiển thị loading screen
+    //Showing Loadscreen
     IEnumerator LoadSceneAsync()
     {
         float elapsedTime = 0f;
-        _playerController.enabled = false; // Tắt PlayerController trong khi load scene
+        //turn off playercontroller while loading sceen
+        _playerController.enabled = false;
         _loadPanelObject.SetActive(true);
         while (elapsedTime < _timeToLoad)
         {
@@ -120,6 +116,7 @@ public class UIController : MonoBehaviour
         }
         yield return new WaitForSeconds(1f);
         _loadPanelObject.SetActive(false);
-        _playerController.enabled = true; // Bật lại PlayerController sau khi load scene
+        //turn on playercontroller after loaded screen
+        _playerController.enabled = true;
     }
 }

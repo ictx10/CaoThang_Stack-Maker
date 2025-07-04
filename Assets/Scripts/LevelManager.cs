@@ -12,7 +12,6 @@ public class LevelManager : MonoBehaviour
 
     private void Awake()
     {
-        // Singleton pattern
         if (Instance == null)
         {
             Instance = this;
@@ -26,14 +25,12 @@ public class LevelManager : MonoBehaviour
         LoadData();
     }
 
-    // Load dữ liệu từ PlayerPrefs
     public void LoadData()
     {
         currentLevel = PlayerPrefs.GetInt(LEVEL_KEY, 1);
         currentScore = PlayerPrefs.GetInt(SCORE_KEY, 0);
     }
 
-    // Lưu dữ liệu vào PlayerPrefs
     public void SaveData()
     {
         PlayerPrefs.SetInt(LEVEL_KEY, currentLevel);
@@ -41,33 +38,17 @@ public class LevelManager : MonoBehaviour
         PlayerPrefs.Save();
     }
 
-    // Load level cụ thể
     public void LoadLevel(int levelIndex)
     {
         if (levelIndex >= 1 && levelIndex <= SceneManager.sceneCountInBuildSettings)
         {
             currentLevel = levelIndex;
             SaveData();
-            SceneManager.LoadScene(levelIndex - 1); // Scene index bắt đầu từ 0
+            SceneManager.LoadScene(levelIndex - 1); 
         }
         else
         {
             Debug.LogError("Invalid level index: " + levelIndex);
-        }
-    }
-
-    // Chuyển sang level tiếp theo
-    public void NextLevel()
-    {
-        int nextLevel = currentLevel + 1;
-        if (nextLevel <= SceneManager.sceneCountInBuildSettings)
-        {
-            LoadLevel(nextLevel);
-        }
-        else
-        {
-            Debug.LogWarning("No more levels available!");
-            // Có thể thêm logic khi hoàn thành tất cả level
         }
     }
 
@@ -76,16 +57,6 @@ public class LevelManager : MonoBehaviour
         LoadLevel(currentLevel);
     }
 
-    // Reset về level đầu tiên
-    public void ResetToFirstLevel()
-    {
-        currentLevel = 1;
-        currentScore = 0;
-        SaveData();
-        LoadLevel(1);
-    }
-
-    // Getter và Setter cho level và score
     public int GetCurrentLevel()
     {
         return currentLevel;

@@ -4,8 +4,7 @@ public class MapController : MonoBehaviour
 {
     [SerializeField] private GameObject _bridgeObj, _brickObj;
     [SerializeField] private int _brickCount, _bridgeCount;
-/*    [SerializeField] private int _brickPassedCount = 0;
-    [SerializeField] private int _bridgePassedCount = 0;*/
+
 
     [SerializeField] private PlayerController _playerController;
     [SerializeField] private FinishLevel _finishLevel;

@@ -15,7 +15,6 @@ public class FinishLevel : MonoBehaviour
     [SerializeField] private Button _btnReload;
 
     // Start is called before the first frame update
-
     private void Start()
     {
         if (_levelCompleteUI != null)
@@ -59,7 +58,6 @@ public class FinishLevel : MonoBehaviour
             _btnComplete.onClick.AddListener(() =>
             {
                 LevelManager.Instance.AddScore(_player.Score);
-                LevelManager.Instance.NextLevel();
                 Debug.Log("Level Completed! Score: " + LevelManager.Instance.GetCurrentScore());
             });
         }
